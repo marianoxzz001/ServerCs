@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "ServerCs": {
+      "commandName": "Project",
+      "commandLineArgs": "dotnet run"
+    }
+  }
+}

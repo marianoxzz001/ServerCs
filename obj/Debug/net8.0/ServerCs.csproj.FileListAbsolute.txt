@@ -1,0 +1,17 @@
+C:\Users\Mariano123\source\repos\ServerCs\ServerCs\bin\Debug\net8.0\ServerCs.exe
+C:\Users\Mariano123\source\repos\ServerCs\ServerCs\bin\Debug\net8.0\ServerCs.deps.json
+C:\Users\Mariano123\source\repos\ServerCs\ServerCs\bin\Debug\net8.0\ServerCs.runtimeconfig.json
+C:\Users\Mariano123\source\repos\ServerCs\ServerCs\bin\Debug\net8.0\ServerCs.dll
+C:\Users\Mariano123\source\repos\ServerCs\ServerCs\bin\Debug\net8.0\ServerCs.pdb
+C:\Users\Mariano123\source\repos\ServerCs\ServerCs\obj\Debug\net8.0\ServerCs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mariano123\source\repos\ServerCs\ServerCs\obj\Debug\net8.0\ServerCs.AssemblyInfoInputs.cache
+C:\Users\Mariano123\source\repos\ServerCs\ServerCs\obj\Debug\net8.0\ServerCs.AssemblyInfo.cs
+C:\Users\Mariano123\source\repos\ServerCs\ServerCs\obj\Debug\net8.0\ServerCs.csproj.CoreCompileInputs.cache
+C:\Users\Mariano123\source\repos\ServerCs\ServerCs\obj\Debug\net8.0\ServerCs.dll
+C:\Users\Mariano123\source\repos\ServerCs\ServerCs\obj\Debug\net8.0\refint\ServerCs.dll
+C:\Users\Mariano123\source\repos\ServerCs\ServerCs\obj\Debug\net8.0\ServerCs.pdb
+C:\Users\Mariano123\source\repos\ServerCs\ServerCs\obj\Debug\net8.0\ServerCs.genruntimeconfig.cache
+C:\Users\Mariano123\source\repos\ServerCs\ServerCs\obj\Debug\net8.0\ref\ServerCs.dll
+C:\Users\Mariano123\source\repos\ServerCs\ServerCs\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\Mariano123\source\repos\ServerCs\ServerCs\obj\Debug\net8.0\ServerCs.csproj.AssemblyReference.cache
+C:\Users\Mariano123\source\repos\ServerCs\ServerCs\obj\Debug\net8.0\ServerCs.csproj.Up2Date
